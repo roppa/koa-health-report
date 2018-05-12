@@ -1,7 +1,7 @@
 {
   "name": "koa-health-report",
   "version": "0.1.0",
-  "description": "Koa costomisable health report middleware",
+  "description": "Koa customisable health report middleware",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js test",
