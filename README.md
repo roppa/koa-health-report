@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/roppa/koa-health-report.svg?style=svg)](https://circleci.com/gh/roppa/koa-health-report)
+
 ## Koa Custom Health Report Middleware
 
 Installation:
